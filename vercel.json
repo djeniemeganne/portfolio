@@ -1,5 +1,5 @@
 {
-    "build":[{
+    "builds":[{
         "src":"portfolio_projet/wsgi.py",
         "use":"@vercel/python" ,           
         "config":{"maxlambdasize":"15mb","runtime":"python_version3.10"} 
